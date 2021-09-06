@@ -1,5 +1,3 @@
-title: Rolls for Season of the Chosen (S13)
-description: PvE God/Good rolls for weapons introduced in season 13 of Destiny 2, Season of the Chosen.
 
 // The Palindrome
 //notes: God roll - Fluted Barrel, Ricochet Rounds, Outlaw, Rampage. Preferred MW - Handling/Range|tags:pve
