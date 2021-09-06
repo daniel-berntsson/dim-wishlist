@@ -33,5 +33,5 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Create new build
         run: |
-          cat "S13/*.txt" >> wishlist.txt
-          cat "S15/*.txt" >> wishlist.txt
+          cat S13/*.txt >> wishlist.txt
+          cat S15/*.txt >> wishlist.txt
